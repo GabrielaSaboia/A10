@@ -19,7 +19,7 @@ header h3{
 	padding-left: 120px;
 }
 .shadow{
-    text-shadow: #800000;
+    text-shadow: 2px 2px 5px #800000;
 }
 header img {
 	height: 80px;
