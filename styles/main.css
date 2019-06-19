@@ -18,6 +18,9 @@ header h3{
 	font-style: italic;
 	padding-left: 120px;
 }
+.shadow{
+    text-shadow: #800000;
+}
 header img {
 	height: 80px;
 	float: left;
